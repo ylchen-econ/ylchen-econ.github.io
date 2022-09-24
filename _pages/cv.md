@@ -11,11 +11,12 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
-Work experience
+* Ph.D in Economics, University of California, Riverside, 2023 (expected)
+* M.A. in Economics, Nankai University, 2018
+* B.A. in Economics, Nankai University, 2015
+
+Teaching experience
 ======
 * Summer 2015: Research Assistant
   * Github University
